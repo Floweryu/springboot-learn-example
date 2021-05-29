@@ -1,0 +1,7 @@
+# 配置redis
+spring:
+  redis:
+    host: 175.24.147.35
+    port: 6379
+    password: redis
+
